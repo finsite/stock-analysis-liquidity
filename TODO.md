@@ -142,7 +142,6 @@ equivalent), under a new **Security & Compliance Workflows** heading:
 ### 🛡️ Security & Compliance Workflows
 
 - [ ] Templatize `security.yml` GitHub Action:
-
   - [ ] Include `bandit` by default
   - [ ] Optional: comment-in support for `safety`, `syft`, `semgrep`, `cosign`
   - [ ] Ensure it uses stable Python version (e.g. `3.11`)
